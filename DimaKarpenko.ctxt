@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DimaKarpenko
+comment0.text=\n\ Write\ a\ description\ of\ class\ KarpenkoDima\ here.\n\n\ @author\ D1teri\ or\ Dima\ K.\n\ @version\ 01/03/24\n
+comment1.params=
+comment1.target=DimaKarpenko()
+comment2.params=
+comment2.target=java.lang.String\ getType()
+numComments=3
